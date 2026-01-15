@@ -1,8 +1,11 @@
 ## Hi there 👋 I'm Harish Patel
 
-🎯 **Frontend Developer | MERN Stack Developer | Tech Enthusiast**
+🎯 **Frontend Developer | MERN Stack | React & Next.js**
 
-I'm a Computer Science Engineering student passionate about building interactive, scalable, and visually appealing web applications. I love experimenting with new technologies, contributing to open-source, and continuously improving my development skills.
+I am a frontend-focused developer who enjoys building clean, responsive, and user-friendly web applications.  
+I like working on real-world projects and improving my skills by building and shipping products.
+
+Currently, I am focusing on React, Next.js, and modern frontend tools, while also strengthening my backend knowledge with the MERN stack.
 
 ---
 
