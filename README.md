@@ -37,7 +37,7 @@ Currently, I am focusing on React, Next.js, and modern frontend tools, while als
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harish%20Patel-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/theharishpatel/)
 [![Twitter](https://img.shields.io/badge/Twitter-Harish%20Patel_-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/theharishpatel_)
-[![Gmail](https://img.shields.io/badge/Gmail-harishpatel.tech@gmail.com__-1DA1F2?style=for-the-badge&logo=gmail)](mailto:x.com/theharrygurjar)
+[![Gmail](https://img.shields.io/badge/Gmail-harishpatel.tech@gmail.com__-1DA1F2?style=for-the-badge&logo=gmail)](mailto:harishpatel.tech@gmail.com)
 
 
 ---
